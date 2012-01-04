@@ -1,0 +1,19 @@
+Package: auto-compile
+Section: extensions
+License: GPL-3+
+Depends: emacs (>= 22)
+Status: stable
+Compat:
+Maintainer: Jari Aalto <jari.aalto@cante.net>
+Bugs:
+Upstream: Jonas Bernoulli <jonas@bernoul.li>
+Upstream-Bugs:
+Vcs-Type: git
+Vcs-Url: git://github.com/tarsius/auto-compile.git
+Vcs-Browser: https://github.com/tarsius/auto-compile
+Homepage: https://github.com/tarsius/auto-compile
+Wiki: http://www.emacswiki.org/emacs/
+Commentary: auto-compile.el
+Description: automatically compile Emacs Lisp files
+ Automatically compile Emacs Lisp files when they are saved or when
+ their buffers are killed.  Also see `auto-compile-mode's doc-string.
