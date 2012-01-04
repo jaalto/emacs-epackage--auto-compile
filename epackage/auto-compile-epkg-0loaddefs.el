@@ -1,7 +1,7 @@
 
-;;;### (autoloads (auto-compile-mode) "../auto-compile" "../auto-compile.el"
-;;;;;;  (20228 15835))
-;;; Generated autoloads from ../auto-compile.el
+;;;### (autoloads (auto-compile-mode) "../auto-compile" "auto-compile.el"
+;;;;;;  (20228 16418))
+;;; Generated autoloads from auto-compile.el
 
 (defvar auto-compile-mode nil "\
 Non-nil if Auto-Compile mode is enabled.
@@ -12,7 +12,7 @@ or call the function `auto-compile-mode'.")
 
 (custom-autoload 'auto-compile-mode "../auto-compile" nil)
 
-(autoload 'auto-compile-mode "../auto-compile" "\
+(autoload 'auto-compile-mode "auto-compile" "\
 Automatically compile Emacs Lisp files.
 
 A file might be compiled every time it is saved or only when it's buffer
@@ -87,4 +87,3 @@ a given buffer using `toggle-local-auto-compile'.  This even works if
 \(fn &optional ARG)" t nil)
 
 ;;;***
-(provide 'auto-compile-epkg-0loaddefs)
