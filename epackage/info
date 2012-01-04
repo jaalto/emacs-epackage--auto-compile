@@ -1,7 +1,7 @@
 Package: auto-compile
 Section: extensions
 License: GPL-3+
-Depends: emacs (>= 22)
+Depends: emacs (>= 22), lib-read-char-spec
 Status: stable
 Compat:
 Maintainer: Jari Aalto <jari.aalto@cante.net>
