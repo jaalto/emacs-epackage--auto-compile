@@ -1,2 +1,2 @@
-(require 'auto-compile-epkg-0loaddefs)
-(provide 'auto-compile-epkg-install)
+(require 'auto-compile-epackage-0loaddefs)
+(provide 'auto-compile-epackage-install)
