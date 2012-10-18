@@ -15,7 +15,7 @@ Homepage: https://github.com/tarsius/auto-compile
 Wiki: http://www.emacswiki.org/emacs/
 Commentary: auto-compile.el
 X-Development:
- Upstream has disabled issue traker
+ Upstream has disabled issue tracker
 Description: automatically compile Emacs Lisp files
  Automatically compile Emacs Lisp files when they are saved or when
- their buffers are killed.  Also see `auto-compile-mode's doc-string.
+ their buffers are killed. See documentation of `auto-compile-mode'.
